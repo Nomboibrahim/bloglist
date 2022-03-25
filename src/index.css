@@ -18,7 +18,7 @@ h2{
    margin-bottom: 30px;
 }
 .create input, textarea, select{
-  width: 100px;
+  width: 100%;
   padding: 6px 10px;
   margin: 10px 0;
   border: 1px solid #ddd;
